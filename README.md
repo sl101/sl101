@@ -18,7 +18,7 @@ Slava Zhevaha
 </h3>
 
 
-https://user-images.githubusercontent.com/9060359/230736157-5bf6b2bd-f0c2-4d64-b511-89032945ebe8.mp4
+<!-- https://user-images.githubusercontent.com/9060359/230736157-5bf6b2bd-f0c2-4d64-b511-89032945ebe8.mp4 -->
 
 <br>
 
